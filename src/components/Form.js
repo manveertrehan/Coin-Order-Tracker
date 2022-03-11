@@ -26,8 +26,8 @@ export default function Form(props) {
     setState({
       coins: '',
       username: '',
-      console: "PlayStation",
-      game: "NBA 2K"
+      console: state.console,
+      game: state.game
     });
   }
 
