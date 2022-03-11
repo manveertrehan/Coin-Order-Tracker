@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/coin-order-tracker/static/css/main.84faab24.css",
-    "main.js": "/coin-order-tracker/static/js/main.688e6226.js",
-    "static/js/787.9349b9e9.chunk.js": "/coin-order-tracker/static/js/787.9349b9e9.chunk.js",
-    "static/media/pandalogo.png": "/coin-order-tracker/static/media/pandalogo.e1745c99f7499143cd29.png",
-    "index.html": "/coin-order-tracker/index.html",
-    "main.84faab24.css.map": "/coin-order-tracker/static/css/main.84faab24.css.map",
-    "main.688e6226.js.map": "/coin-order-tracker/static/js/main.688e6226.js.map",
-    "787.9349b9e9.chunk.js.map": "/coin-order-tracker/static/js/787.9349b9e9.chunk.js.map"
+    "main.css": "/Coin-Order-Tracker/static/css/main.84faab24.css",
+    "main.js": "/Coin-Order-Tracker/static/js/main.abf9f9d0.js",
+    "static/js/787.9349b9e9.chunk.js": "/Coin-Order-Tracker/static/js/787.9349b9e9.chunk.js",
+    "static/media/pandalogo.png": "/Coin-Order-Tracker/static/media/pandalogo.e1745c99f7499143cd29.png",
+    "index.html": "/Coin-Order-Tracker/index.html",
+    "main.84faab24.css.map": "/Coin-Order-Tracker/static/css/main.84faab24.css.map",
+    "main.abf9f9d0.js.map": "/Coin-Order-Tracker/static/js/main.abf9f9d0.js.map",
+    "787.9349b9e9.chunk.js.map": "/Coin-Order-Tracker/static/js/787.9349b9e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.84faab24.css",
-    "static/js/main.688e6226.js"
+    "static/js/main.abf9f9d0.js"
   ]
 }
