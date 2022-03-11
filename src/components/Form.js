@@ -5,8 +5,6 @@ export default function Form(props) {
   const [state, setState] = useState({
     coins: '',
     username: '',
-    console: 'PlayStation',
-    game: 'NBA 2K',
   });
 
   function handleChange(e) {
